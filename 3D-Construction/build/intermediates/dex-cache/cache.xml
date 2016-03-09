@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Atta Man\AndroidStudioProjects\HEBA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Atta Man\AndroidStudioProjects\HEBA\app\build\intermediates\pre-dexed\debug\classes-389af699c99484cc70b18ef5fab44324e8ce1700.jar" />
+    </item>
+    <item
+        jar="C:\Users\Atta Man\AndroidStudioProjects\HEBA - Backup\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Atta Man\AndroidStudioProjects\HEBA - Backup\app\build\intermediates\pre-dexed\debug\classes-62ad63a6aabb2f95dd752cefdc91f2860806b316.jar" />
+    </item>
+    <item
+        jar="C:\Users\Atta Man\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Atta Man\AndroidStudioProjects\HEBA\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-6d71e73cb1a7647fc26a1ea24303bf64cfadf76e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Atta Man\AndroidStudioProjects\HEBA - Backup\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Atta Man\AndroidStudioProjects\HEBA - Backup\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-acd059349864b4945821d47897916aba7ff8f323.jar" />
+    </item>
+    <item
+        jar="C:\Users\Atta Man\AndroidStudioProjects\HEBA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Atta Man\AndroidStudioProjects\HEBA\app\build\intermediates\pre-dexed\debug\classes-4187825b0dfaa0436023edd4d5915eb15a6547f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Atta Man\AndroidStudioProjects\HEBA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Atta Man\AndroidStudioProjects\HEBA\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-4af8b4ffc6376908557505ea6ce0b7b7d5ed26c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Atta Man\AndroidStudioProjects\HEBA - Backup\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Atta Man\AndroidStudioProjects\HEBA - Backup\app\build\intermediates\pre-dexed\debug\classes-052b8e930848503a5b93c8eb0318cc48a8ed5598.jar" />
+    </item>
+
+</items>
